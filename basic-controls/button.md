@@ -8,8 +8,11 @@ description: Documentation for the button component
 
 Becoming a super hero is a fairly straight forward process:
 
-```
-$ give me super-powers
+```markup
+<a>
+    <ab>
+    </ab>
+</a>
 ```
 
 {% hint style="info" %}
